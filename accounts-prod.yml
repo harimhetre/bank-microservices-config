@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to bank accounts related to Prod env"
   contactDetails:
     name: "Tatyana - Product Owner"
-    email: "tatyana@americanXpress.com"
+    email: "{cipher}0a0c9e8c5f23b00778a85261e2251044e1fbf0e22404690d544ca212a3cbb60cae240c4eacae624787cc12fc93f8f053"
   onCallSupport:
       - (123) 567-1234
       - (452) 232-1334
