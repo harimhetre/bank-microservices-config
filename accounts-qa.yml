@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to bank accounts related to QA env"
   contactDetails:
-    name: "Neeta Gupta - QA Lead"
+    name: "Neeta Gupta - QA Engineer"
     email: "neeta.gupta@americanXpress.com"
   onCallSupport:
       - (123) 567-1234
