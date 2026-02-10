@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to bank loans related to Prod env"
+  message: "Welcome to bank loans related to production env"
   contactDetails:
     name: "Tatyana - Product Owner"
     email: "tatyana@americanXpress.com"
