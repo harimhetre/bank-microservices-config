@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to bank cards related local APIs"
+  message: "Welcome to bank cards related docker local APIs"
   contactDetails:
     name: Hari Mhetre
     email: hari.mhetre22@gmail.com
