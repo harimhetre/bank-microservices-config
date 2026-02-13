@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to bank accounts related local APIs"
+  message: "Welcome to bank accounts related docker local APIs"
   contactDetails:
     name: Hari Mhetre
     email: hari.mhetre22@gmail.com
