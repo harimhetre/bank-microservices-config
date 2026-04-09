@@ -1,0 +1,12 @@
+server:
+  port: 9095
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl: 
+      defaultZone: "http://eurekaserver:9094/eureka"
+    
