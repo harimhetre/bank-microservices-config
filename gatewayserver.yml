@@ -2,6 +2,9 @@ server:
   port: 9095
 
 spring:
+  application:
+    name: gatewayserver
+
   cloud:
     gateway:
       discovery:
