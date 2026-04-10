@@ -1,6 +1,14 @@
 server:
   port: 9095
 
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+
 eureka:
   instance:
     preferIpAddress: true
@@ -9,4 +17,3 @@ eureka:
     fetchRegistry: true
     serviceUrl: 
       defaultZone: "http://eurekaserver:9094/eureka"
-    
