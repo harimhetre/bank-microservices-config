@@ -14,13 +14,3 @@ spring:
       httpclient:
         connect-timeout: 1000
         response-timeout: 2s
-      
-
-eureka:
-  instance:
-    preferIpAddress: true
-  client:
-    registerWithEureka: true
-    fetchRegistry: true
-    serviceUrl: 
-      defaultZone: "http://eurekaserver:9094/eureka"
